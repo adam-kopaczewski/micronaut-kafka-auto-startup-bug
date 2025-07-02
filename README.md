@@ -1,5 +1,7 @@
 6 scenarios in which Micronaut Kafka listeners consume one batch of messages (the result of first poll) or ignores `autoStartup=false` and consume messages.
 
+Related [Micronaut Kafka ticket](https://github.com/micronaut-projects/micronaut-kafka/issues/1201).
+
 # Steps to reproduce
 
 ## Boot Kafka broker
